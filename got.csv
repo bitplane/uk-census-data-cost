@@ -1,0 +1,16 @@
+area,year,price,uploaded
+London,1851,£11.13,yes
+London,1861,£6.99,yes
+London,1871,£7.02,yes
+
+London,1891,£6.67,yes
+Lancashire,1891,£8.42,yes
+Yorkshire,1871,£7.25,yes
+Yorkshire,1891,£7.25,yes
+
+Durham,1901,£10.90,no
+
+Lancashire,1871,£10.78,no
+Cheshire,1871,£13.72,no
+Cheshire,1901,£10.76,no
+Devonshire,1841,£9.51,no
