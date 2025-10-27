@@ -1,16 +1,22 @@
-area,year,price,uploaded
-London,1851,£11.13,yes
-London,1861,£6.99,yes
-London,1871,£7.02,yes
+area,year,price,retail,uploaded
+London,1851,£11.13,£39.95,yes
+London,1861,£6.99,£39.95,yes
+London,1871,£7.02,£39.95,yes
 
-London,1891,£6.67,yes
-Lancashire,1891,£8.42,yes
-Yorkshire,1871,£7.25,yes
-Yorkshire,1891,£7.25,yes
+London,1891,£6.67,£39.95,yes
+Lancashire,1891,£8.42,£39.95,yes
+Yorkshire,1871,£7.25,£39.95,yes
+Yorkshire,1891,£7.25,£39.95,yes
 
-Durham,1901,£10.90,no
+Durham,1901,£10.90,£29.95,no
+Durham,1841,£1.56,£29.95,no
+Durham,1851,£1.56,£29.95,no
+Northumberland,1841,£1.56,£29.95,no
+Northumberland,1851,£1.56,£29.95,no
+Norfolk,1861,£1.56,£29.95,no
 
-Lancashire,1871,£10.78,no
-Cheshire,1871,£13.72,no
-Cheshire,1901,£10.76,no
-Devonshire,1841,£9.51,no
+Lancashire,1871,£10.78,£39.95,no
+Cheshire,1871,£13.72,£29.95,no
+Cheshire,1901,£10.76,£29.95,yes
+Devonshire,1841,£9.51,£19.95,no
+Somerset,1861,£5.99,£29.95,yes
